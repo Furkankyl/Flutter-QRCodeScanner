@@ -1,9 +1,9 @@
-#QR Kod Okuyucu
+# QR Kod Okuyucu
 - Json data işleyerek ekranda gösteren flutter uygulaması
 
 
 
-###QR kodlar
+### QR kodlar
 
 
 ![](https://i.ibb.co/pz5w7Hm/equipment1.png)
