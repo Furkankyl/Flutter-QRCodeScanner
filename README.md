@@ -1,14 +1,13 @@
 # QR Kod Okuyucu
 - Json data işleyerek ekranda gösteren flutter uygulaması
 
+### Ekran Görüntüsü
 
+![](https://i.ibb.co/25kC8dv/0ff43144-5eb2-4a59-a2a0-18f252181770.jpg)
 
 ### QR kodlar
 
 
-![](https://i.ibb.co/pz5w7Hm/equipment1.png)
-
-> Equipment 1 QR Code.
 
 ![](https://i.ibb.co/C8KPjHh/Exercise1.png)
 
