@@ -3,7 +3,8 @@
 
 ### Ekran Görüntüsü
 
-![](https://i.ibb.co/25kC8dv/0ff43144-5eb2-4a59-a2a0-18f252181770.jpg)
+<img src="https://i.ibb.co/25kC8dv/0ff43144-5eb2-4a59-a2a0-18f252181770.jpg" height="350" />
+
 
 ### QR kodlar
 
